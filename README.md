@@ -5,17 +5,17 @@ Finance managers can log in and view all reimbursement requests and past history
 Finance managers are authorized to approve and deny requests for expense reimbursement.
 
 #  Technologies Used
-* Tech 1 - JavaScript
-* Tech 2 - HTML
-* Tech 3 - CSS
-* Tech 4 - AJAX
-* Tech 5 - SQL
-* Tech 6 -Java
-* Tech 7 - Selenium
-* Tech 8 - Javalin
-* Tech 9 - Mockito
-* Tech 10- JUnit
-* Tech 11-  JDBC
+*  JavaScript
+*  HTML
+*  CSS
+*  AJAX
+*  SQL
+* Java
+* Selenium
+* Javalin
+* Mockito
+* JUnit
+* JDBC
 
 #  Features
 * The login page can redirect employees to their homepage. 
